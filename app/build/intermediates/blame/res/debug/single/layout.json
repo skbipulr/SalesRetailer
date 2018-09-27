@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photos.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\salesinfoitem.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\salesinfoitem.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_privacy_policy.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sales_info_details.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_sales_info_details.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_movies.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_sent_imei.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\acitivity_sent_imei.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_simple_scanner.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\activity_simple_scanner.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\itemlistrow.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\itemlistrow.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sales_offer.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_sales_offer.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sent_imei.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_sent_imei.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sales_info.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_sales_info.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sales_registration.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_sales_registration.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notifications.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dot.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\menu_dot.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-media-compat\\27.0.2\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\layout\\design_text_input_password_icon.xml"
+    }
+]

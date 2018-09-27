@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notifications.xml",
+        "source": "G:\\Sales RetailerUI-20180927T223650Z-001\\Sales RetailerUI\\Sales Retailer\\app\\src\\main\\res\\menu\\notifications.xml"
+    }
+]
